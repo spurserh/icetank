@@ -1,0 +1,21 @@
+set_io LED0 95
+set_io LED1 96
+set_io LED2 97
+set_io LED3 98
+set_io LED4 99
+set_io LED5 101
+set_io LED6 102
+set_io LED7 104
+
+set_io MOTORLB 117
+set_io MOTORLF 116
+set_io MOTORRB 118
+set_io MOTORRF 119
+
+set_io clk 21
+
+set_io --warn-no-port TX  8
+
+set_io --warn-no-port adc_pwm 50
+set_io --warn-no-port adc_fb 49
+set_io --warn-no-port dbg_en 138
